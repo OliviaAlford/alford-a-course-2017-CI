@@ -5,5 +5,5 @@ branches:
 script:
   - make hello_beeler
   - ./hello_beeler
-after_script:
- - chmod +x ./hello_beeler
+#after_script:
+ #- chmod +x ./hello_beeler
